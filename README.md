@@ -2,9 +2,9 @@
 
 Table Element, Video Element, Format Element, Anchor Element, Align Paragraph, Image Element, Iframe, 
 
-**Pahlawan Pria**
+**Pahlawan Pria** <br>
 ![pahlawan-pria](screen/pahlawan-pria.png)
 <br><br>
 
-**Pahlawan Wanita**
+**Pahlawan Wanita** <br>
 ![pahlawan-wanita](screen/pahlawan-wanita.png)
